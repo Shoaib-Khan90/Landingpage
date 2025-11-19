@@ -577,6 +577,10 @@ img {
         background-color: #F7FBFF;
 }
 
+.final>.image2>.img9>.right{
+                            display: flex;
+}
+
 .final>.image2{
                 padding: 90px;
                 margin-left: 40px;            
