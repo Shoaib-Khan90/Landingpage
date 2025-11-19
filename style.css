@@ -524,10 +524,35 @@ img {
     align-items: center;
 }
 
-.images>.pic>img {
+/* .images>.pic>img {
     max-width: 280px;
     width: 100%;
     height: auto;
+} */
+
+.images>.pic>.pic1{
+                    box-shadow: 0px 0px 6px 0px;
+                    border: 1px solid #104C8B29;
+                    width: 256px;
+                    height: 405px;
+                    border-radius: 16px;
+}
+
+.images>.pic>.pic1>.pic2{
+                            display: flex;
+}
+
+.images>.pic>.pic1>.pic3{
+                            display: flex;
+}
+
+.images>.pic>.pic1>.pic4{
+                            display: flex;
+}
+
+.images>.pic>.pic1>.text10{
+                            display: flex;
+                            margin-top: 25px;
 }
 
 .images>.pic>button{
